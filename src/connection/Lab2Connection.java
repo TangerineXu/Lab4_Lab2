@@ -1,4 +1,4 @@
-//for test Lab2Connection.java
+//test Lab2Connection.java
 package connection;
  
 import java.sql.Connection;

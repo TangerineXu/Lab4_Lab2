@@ -1,4 +1,4 @@
-//for test Lab2Model.java
+//test git Lab2Model.java
 package model;
 import java.sql.Connection;
 import java.sql.Date;

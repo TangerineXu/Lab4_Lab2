@@ -1,4 +1,3 @@
-//for test Lab2Action.java
 package action;
 import java.sql.Date;
 import java.util.*;
